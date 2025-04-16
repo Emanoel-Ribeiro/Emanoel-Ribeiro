@@ -30,10 +30,6 @@
 
 <br/>
 
-<a href="https://github.com/Emanoel-Ribeiro" title="Perfil do Emanoel">
-  <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=EmanoelRibeiro&theme=dracula&show_icons=true"/>
-</a>
-
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-emanoelribeiro.ifc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanoelribeiro.ifc@gmail.com)](mailto:emanoelribeiro.ifc@gmail.com)

@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <div style="width: 200px;">
 <a href="https://github.com/Emanoel-Ribeiro/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-Ribeiro&langs_count=8" alt="Top Langs"/>
 </a>
 </div>

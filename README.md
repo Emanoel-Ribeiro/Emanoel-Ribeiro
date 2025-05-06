@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Informatica para internet no Instituto federal catarinense.
-- 🌱 Aprendendo mais sobre Dart, Flutter, React.
+- 🌱 Aprendendo mais sobre Dart & Flutter
 
 ## Minhas Skills
 

@@ -6,6 +6,7 @@
 
 ## GitHub Stats
 ![Emanoel](https://github-readme-stats.vercel.app/api?username=Emanoel-Ribeiro&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-Ribeiro)](https://github.com/Emanoel-Ribeiro/github-readme-stats)
 
 ## Skills
 

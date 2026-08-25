@@ -84,9 +84,9 @@ Status  : Always shipping ✦
 
 <div align="center">
 
-![Emanoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoel-Ribeiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
+![Emanoel's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=Emanoel-Ribeiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-Ribeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff)
+![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Emanoel-Ribeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff)
 
 </div>
 

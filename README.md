@@ -2,18 +2,18 @@
 
 ```
 ███████╗███╗   ███╗ █████╗ ███╗   ██╗ ██████╗ ███████╗██╗
-██╔════╝████╗ ████║██╔══██╗████╗  ██║██╔═══██╗██╔════╝██║
-█████╗  ██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║
-██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║
+██╔════╝████╗ ████║███║██╔══██╗████╗  ██║██╔═══██╗██╔════╝██║
+█████╗  ██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██╗
+██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║██╔══╝  ██║
 ███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### Full Stack & Mobile Developer
+### Full Stack & Mobile Developer · Graduando em Direito
 
-*Turning ideas into scalable, modern, and well-structured applications.*
+*Technology, strategy, and legal vision applied to digital solutions.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+Developer+%7C+Flutter+%26+Dart;Clean+Code+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+Developer+%7C+Flutter+%26+Dart;Law+Student+%7C+UFSC+Direito;Clean+Code+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,10 +29,22 @@ $ cat about.txt
 Name    : Emanoel Ribeiro
 Role    : Full Stack & Mobile Developer
 School  : Instituto Federal Catarinense — IT for Internet (Technical Degree)
+Degree  : Direito — Universidade Federal de Santa Catarina (UFSC)
 Focus   : End-to-end development, from backend logic to polished UIs
+Hybrid  : Building tools where technology meets legal practice
 Goals   : Clean code · Scalable architecture · Real-world impact
 Status  : Always shipping ✦
 ```
+
+---
+
+## `featured --projects`
+
+### ⚖️ [Petições INPI](https://github.com/Emanoel-Ribeiro/peticoes-inpi)
+> Ferramenta para montar petições de **oposição** e **cumprimento de exigência de mérito** (arts. 158 e 159 da LPI) em processos de registro de marca — checklist de fundamentos legais, prévia ao vivo e exportação em `.docx`, `.pdf` e `.txt`. Direito aplicado em código real.
+
+### 🌟 [Streaky](https://github.com/Emanoel-Ribeiro/Streaky)
+> App Flutter de controle de hábitos diários com streaks — leve, offline, sem necessidade de conta. Interface limpa e responsiva.
 
 ---
 
@@ -44,6 +56,7 @@ Status  : Always shipping ✦
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -86,7 +99,7 @@ Status  : Always shipping ✦
 
 ![Emanoel's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=Emanoel-Ribeiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
 
-![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Emanoel-Ribeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff)
+![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Emanoel-Ribeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
 
 </div>
 
